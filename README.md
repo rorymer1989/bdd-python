@@ -6,15 +6,15 @@ pip install pytest-bdd
 
 
 
-[project root directory]
-|‐‐ [product code packages]
-|-- pages
-|-- [test directories]
-|   |-- features
-|   |   `-- *.feature
-|   `-- step_defs
-|       |-- __init__.py
-|       |-- conftest.py
+# [project root directory]
+# |‐‐ [product code packages]
+# |-- pages
+# |-- [test directories]
+# |   |-- features
+# |   |   `-- *.feature
+# |   `-- step_defs
+# |       |-- __init__.py
+# |       |-- conftest.py
        
 
 
